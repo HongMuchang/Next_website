@@ -1,3 +1,24 @@
+# Next_Website
+
+![](https://i.imgur.com/V96Urwx.png)
+
+<br>
+
+[**今回の作成した物**](https://next-website-tau.vercel.app/)
+
+<br>
+
+## Language used
+
+**1. Next.Js**<br>
+**2. Tailwind.css**<br>
+**3. JsonAPI**<br>
+**4. SSG+Prefetch**<br>
+**5. Dynamic route**<br>
+
+<br>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
